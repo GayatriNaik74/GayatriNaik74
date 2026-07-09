@@ -5,7 +5,7 @@
 
 ### 🙋‍♀️ About Me
 
-I'm a final-year CS undergraduate at Usha Mittal Institute of Technology, SNDT WU, Mumbai (Batch 2027), building software that solves real problems from fraud detection systems to behavioral biometric authentication. I enjoy backend engineering, cloud-based development, and ML-driven applications, and I'm always looking to learn from mentors and collaborative teams.
+I'm a final-year CS undergraduate at Usha Mittal Institute of Technology, SNDT, building software that solves real problems from fraud detection systems to behavioral biometric authentication. I enjoy backend engineering, cloud-based development, and ML-driven applications, and I'm always looking to learn from mentors and collaborative teams.
 
 ---
 
