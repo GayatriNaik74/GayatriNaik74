@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gayatri Naik</h1>
-<h3 align="center">A passionate Computer Science student from India</h3>
+<h3 align="center">A passionate Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrinaik74&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrinaik74" /> </p>
 
