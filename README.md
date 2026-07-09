@@ -42,6 +42,3 @@ I'm a final-year CS undergraduate at Usha Mittal Institute of Technology, SNDT W
 </p>
 
 ---
-
-
----
