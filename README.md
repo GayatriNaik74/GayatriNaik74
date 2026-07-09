@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gayatri</h1>
+<h1 align="center">Hi, I'm Gayatri Naik</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatrinaik74&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrinaik74" /> </p>
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **gmnaik7474@gmail.com**
 
-- 📄 Know about my experiences [Here](https://drive.google.com/file/d/1akhICh2CniC3XJKxnfqA_53xOlSb9F7q/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
